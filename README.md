@@ -51,7 +51,7 @@
 <div align="center">
   <h3>Contato <!--/ Social --> </h3>
   <adress>
-    <a href="mailto:nathasixth6@gmail.com">
+    <a href="mailto:nathasixth6@gmail.com" alt="nathasixth6@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     <a>
     <a href="https://www.linkedin.com/in/nath%C3%A3-hernandez-8555b4228/">
