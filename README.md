@@ -1,16 +1,62 @@
-### Hi there 👋
+### Olá, eu sou o Nathã Hernandez 😃
 
-<!--
-**natha6dev/natha6dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 Sou um ex estudante de Engenharia de Computação, atualmente focado em desenvolvimento web.
+- 🔭 Atualmente eu trabalho em Projetos ReactJS e NodeJS
+- 🌱 Atualmente estou aprendendo sobre Typescript e Testes
+<br>
 
-Here are some ideas to get you started:
+### Hello, I'm Nathã Hernandez 😃
+- 👨‍💻 I'm a former Computer Engineering student, currently focused on web development.
+- 🔭 I’m currently working on ReactJS and NodeJS Projects
+- 🌱 I’m currently learning Typescript and Tests
+##
+<div align="center">
+  <a href="https://github.com/natha6dev"></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natha6dev&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natha6dev&layout=compact&langs_count=7&theme=graywhite"/>
+</div>
+      
+<br>
+    
+<div align="center" display="inline-block">
+  <h3>Habilidades / Skills</h3>
+    <a href="https://www.javascript.com/" alt="Javascript">
+      <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    </a>
+    <a href="https://reactjs.org/" alt="ReactJS">
+      <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> 
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" alt="HTML5">
+      <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />      
+    </a>
+    <a href="https://www.w3.org/Style/CSS/Overview.en.html" alt="CSS3">
+      <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />     
+    </a>
+    <a href="https://getbootstrap.com/" alt="Bootstrap">
+      <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />     
+    </a>
+    <a href="https://nodejs.org/en/" alt="NodeJS">
+      <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />     
+    </a>
+    <a href="https://www.typescriptlang.org/" alt="Typescript">
+      <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />    
+    </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<div align="center">
+  <h3>Contato / Social </h3>
+  <adress>
+    <a href="mailto:nathasixth6@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <a>
+    <a href="https://www.linkedin.com/in/nath%C3%A3-hernandez-8555b4228/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://www.instagram.com/natha.img/">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+    </a>
+  </adress>
+</div>
+
