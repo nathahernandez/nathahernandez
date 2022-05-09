@@ -6,11 +6,11 @@
 
 <br>
 
-### Hello, I'm Nathã Hernandez 😃
+<!-- ### Hello, I'm Nathã Hernandez 😃
 - 👨‍💻 I'm a former Computer Engineering student, currently focused on web development.
 - 🔭 I’m currently working on ReactJS and NodeJS Projects
 - 🌱 I’m currently learning Typescript and Tests
-
+-->
 <br>
 
 <div align="center" display="inline-block">
@@ -23,7 +23,7 @@
 <br>
     
 <div align="center" display="inline-block">
-  <h3>Habilidades / Skills</h3>
+  <h3>Habilidades <!--/ Skills --></h3>
     <a href="https://www.javascript.com/" alt="Javascript">
       <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     </a>
@@ -50,7 +50,7 @@
 <br>
 
 <div align="center">
-  <h3>Contato / Social </h3>
+  <h3>Contato <!--/ Social --> </h3>
   <adress>
     <a href="mailto:nathasixth6@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -64,8 +64,7 @@
   </adress>
 </div>
 
-<br>
-
 <div align="center">
+  <h3> Trust The Process</h3>
   <img height="200em" src="https://cdn.dribbble.com/users/743832/screenshots/3834718/day25-26_teacup_tx.gif"/>
 </div>
