@@ -59,8 +59,11 @@
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="https://www.instagram.com/natha.img/">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
   </adress>
 </div>
+
+<br>
+  <img src="https://cdn.dribbble.com/users/743832/screenshots/3834718/day25-26_teacup_tx.gif"/>
 
