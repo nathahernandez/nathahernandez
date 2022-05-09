@@ -29,6 +29,12 @@
     <a href="https://reactjs.org/" alt="ReactJS">
       <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> 
     </a>
+    <a href="https://nodejs.org/en/" alt="NodeJS">
+      <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />     
+    </a>
+    <a href="https://www.typescriptlang.org/" alt="Typescript">
+      <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />    
+    </a>
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" alt="HTML5">
       <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />      
     </a>
@@ -37,12 +43,6 @@
     </a>
     <a href="https://getbootstrap.com/" alt="Bootstrap">
       <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />     
-    </a>
-    <a href="https://nodejs.org/en/" alt="NodeJS">
-      <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />     
-    </a>
-    <a href="https://www.typescriptlang.org/" alt="Typescript">
-      <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />    
     </a>
 </div>
 
