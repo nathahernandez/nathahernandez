@@ -65,5 +65,7 @@
 </div>
 
 <br>
-  <img src="https://cdn.dribbble.com/users/743832/screenshots/3834718/day25-26_teacup_tx.gif"/>
 
+<div align="center">
+  <img height="200em" src="https://cdn.dribbble.com/users/743832/screenshots/3834718/day25-26_teacup_tx.gif"/>
+</div>
