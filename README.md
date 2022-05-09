@@ -3,17 +3,20 @@
 - 👨‍💻 Sou um ex estudante de Engenharia de Computação, atualmente focado em desenvolvimento web.
 - 🔭 Atualmente eu trabalho em Projetos ReactJS e NodeJS
 - 🌱 Atualmente estou aprendendo sobre Typescript e Testes
+
 <br>
 
 ### Hello, I'm Nathã Hernandez 😃
 - 👨‍💻 I'm a former Computer Engineering student, currently focused on web development.
 - 🔭 I’m currently working on ReactJS and NodeJS Projects
 - 🌱 I’m currently learning Typescript and Tests
-##
-<div display="inline-block">
+
+<br>
+
+<div align="center" display="inline-block">
   <a href="https://github.com/natha6dev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natha6dev&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natha6dev&layout=compact&langs_count=7&theme=graywhite"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=natha6dev&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natha6dev&layout=compact&langs_count=7&theme=graywhite"/>
   </a>
 </div>
       
