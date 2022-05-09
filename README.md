@@ -1,6 +1,5 @@
 ### Olá, eu sou o Nathã Hernandez 😃
 
-- 👨‍💻 Sou um ex estudante de Engenharia de Computação, atualmente focado em desenvolvimento web.
 - 🔭 Atualmente eu trabalho em Projetos ReactJS e NodeJS
 - 🌱 Atualmente estou aprendendo sobre Typescript e Testes
 
