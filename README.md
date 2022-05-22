@@ -1,4 +1,4 @@
-### Olá, eu sou o Nathã 😃
+## Olá, eu sou o Nathã 😃
 
 - 🔭 Atualmente eu trabalho em Projetos ReactJS e NodeJS
 - 🌱 No momento estou estudando sobre Typescript e Testes
