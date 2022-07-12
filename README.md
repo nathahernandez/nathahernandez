@@ -1,6 +1,6 @@
 ## Olá, eu sou o Nathã :)
 
-- 🔭 Atualmente eu trabalho em Projetos ReactJS e NodeJS com Typescript.
+- 🔭 Atualmente eu trabalho em Projetos React e React-Native com Typescript.
 - 🌱 No momento estou aprimorando meus conhecimentos em React e Typescript.
 
 <br>
@@ -64,6 +64,6 @@
 </div>
 
 <div align="center">
-  <h3> Trust The Process</h3>
+  <h3>Never Settle</h3>
   <img height="200em" src="https://cdn.dribbble.com/users/743832/screenshots/3834718/day25-26_teacup_tx.gif"/>
 </div>
